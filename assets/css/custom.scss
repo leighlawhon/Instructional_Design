@@ -1,7 +1,7 @@
 --- 
-#to make sure Jekyll reads this 
+sass: 
+  sass_dir: _sass --- @import "default";
 --- 
-
 @import "default";
 @import "author";
 @import "footer";

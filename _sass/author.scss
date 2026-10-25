@@ -10,12 +10,25 @@
     .sticky {
         top: 4em;
     }
+
     .masthead.sticky {
-        top: 0;
+        top: 4em;
     }
 
-    h3.author__name {
-    color: #001933
+    h3.author__name,
+    .author__avatar {
+        text-align: center;
+    }
+
+    h3.author__name a {
+        color: #001933;
+        font-size: 1.5em;
+    }
+
+    .author__urls.social-icons,
+    .author__bio.p-note {
+        text-align: center;
+        font-size: 1.5em;
     }
 
     .sidebar.sticky {
@@ -28,5 +41,5 @@
         left: 0em;
         bottom: 0;
     }
-    
+
 }

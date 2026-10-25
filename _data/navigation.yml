@@ -1,14 +1,14 @@
 main:
-  - title: "LXD Course"
+  - title: "Degree in Learning Design and Technology"
     children:
-      - title: "Learning Theory (LDT100x)"
+      - title: "Learning Theory (LDTC 600)"
         url: /pages/learning-theory
-      - title: "Instructional Design Models (LDT200x)"
-        url: /pages/id-models
-      - title: "Digital Media Design (LDT300x)"
+      - title: "Instructional Design Models (LDTC 605)"
+        url: /pages/instructional-design-models
+      - title: "Digital Media Design (LDTC 610)"
         url: /pages/digital-media-design
-      - title: "Capstone  (LDT400x)"
-        url: /pages/capstone
+      - title: "UX/UI Design (LDTC 615)"
+        url: /pages/uxui-design
       - title: "Instructional Design Document )(IDD)"
         url: /pages/idd
   

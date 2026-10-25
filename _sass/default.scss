@@ -18,17 +18,20 @@ h5,
 h6 {
     margin: 0.5em 0 0.125em;
 }
+
 h1 {
     color: #103966;
     font-family: "Rubik";
-        font-size: 2em;
+    font-size: 2em;
 }
+
 h2 {
     color: #103966;
     font-size: 1.6em;
     font-family: "Rubik";
     font-weight: 700;
 }
+
 h3,
 h3.archive__subtitle {
     clear: both;
@@ -36,10 +39,11 @@ h3.archive__subtitle {
     font-family: "Rubik";
     font-size: 1.2em;
 }
+
 h4 {
     font-size: 1.2em;
     font-family: "Waiting for the Sunrise";
-        color: #103966;
+    color: #103966;
 }
 
 p,
@@ -53,6 +57,7 @@ body {
 #main {
     position: relative;
 }
+
 @media (min-width: 80em) {
     #main {
         max-width: 100%;
@@ -71,6 +76,7 @@ body {
         padding-right: 200px;
     }
 }
+
 .float-left {
     float: left;
     margin-right: 2em;
