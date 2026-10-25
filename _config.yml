@@ -38,7 +38,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
-search: true
+search: false
 
 defaults:
   # _posts
