@@ -27,9 +27,8 @@ If you share or adapt my work, I would love to hear from you. Notification is ap
 
 **Contact:** [leighlawhon@gmail.com](mailto:leighlawhon@gmail.com)
 
-# Unit 2: Behaviorism
-
-{% include heading_anchors.html level="h2" h_text="Week 2: Behaviorism" %}
+<a name="unit2"></a>
+# Unit 2: Behaviorism 
 
 ## Overview of Behaviorism
 
