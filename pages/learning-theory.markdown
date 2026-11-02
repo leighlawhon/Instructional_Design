@@ -202,7 +202,7 @@ Example 3.5 is where the lesson becomes especially abstract for me. There is no 
 
 Something like this:
 
-![Figure](pages/learning-theory.markdown)
+![Figure](assets/images/tickmarks.jpeg)
 
 ### Strengths, Limitations, and Future Questions
 
