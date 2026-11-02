@@ -202,7 +202,7 @@ Example 3.5 is where the lesson becomes especially abstract for me. There is no 
 
 Something like this:
 
-![Figure](assets/images/tickmarks.jpeg)
+![Figure]({{ '/assets/images/tickmarks.jpeg' | relative_url }})
 
 ### Strengths, Limitations, and Future Questions
 
