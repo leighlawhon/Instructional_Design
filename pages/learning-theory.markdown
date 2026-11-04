@@ -34,42 +34,42 @@ If you share or adapt my work, I would love to hear from you. Notification is ap
 
 Behaviorism is an approach to psychology that emphasizes the scientific study of behavior and its relationship with the environment. Its emergence in the early twentieth century represented a shift away from introspection, which relied on people describing their conscious experiences, toward observable and measurable evidence. In his 1913 article, *Psychology as the Behaviorist Views It*, John B. Watson argued that psychology should be an objective, experimental science concerned with predicting and controlling behavior. His approach challenged prevailing assumptions about what counted as scientific evidence in psychology (Watson, 1913).
 
-### Social Media and Behaviorism
+Behaviorism also provides principles for designing instruction around observable performance, practice, and consequences. In this reflection, I use my software training experience as a starting point for considering how these principles might support adult learning. 
 
-Today, with the internet full of influencers and online personalities, I feel behaviorism is especially relevant. Applying the principle of positive reinforcement, likes, comments, and shares could encourage people to repeat posts that attract attention. However, attention would function as reinforcement only if it increased future posting behavior (Skinner, 1953). From this perspective, I wonder whether some online environments encourage provocative posts more consistently than thoughtful communication.
+Prior to becoming a software instructor, I was a designer turned coder. One time I got an inline comment during a review which was just a bunch of farm animals. I didn't get it. They explained that I "left so many spaces between my lines of code, cows and horses could graze". Not a great experience, but definitely an opportunity to examine how to teach and reinforce these cultural rules without sarcasm and poking at the new kid.
 
 ### Classical Conditioning
 
 Two major learning processes associated with behaviorism are **classical conditioning** and **operant conditioning**. Classical conditioning developed from Russian physiologist Ivan Pavlov’s research on digestion and conditioned reflexes around the turn of the twentieth century. His experiments demonstrated that a previously neutral stimulus could elicit a learned response after being paired with an unconditioned stimulus (Pavlov, 1927).
 
-The components of classical conditioning can be illustrated through a food-related example:
+The components of classical conditioning can be illustrated through a software developer example:
 
-1. **Unconditioned stimulus (UCS):** Food placed in a dog’s mouth naturally elicits salivation.
-2. **Unconditioned response (UCR):** Salivation in response to that food occurs without conditioning.
-3. **Neutral stimulus (NS):** A tone initially does not elicit the salivation response being studied.
-4. **Conditioned stimulus (CS):** After repeated pairings with food, the tone becomes a signal that elicits salivation.
-5. **Conditioned response (CR):** Salivation in response to the tone is the learned response (Pavlov, 1927).
-
-#### A Personal Connection to Eating Routines
-
-As someone living with MODY 3 diabetes, I have noticed that I rarely feel hungry and can work for hours without thinking about food. This has made maintaining a healthy weight difficult for me. I describe this as my personal experience rather than assuming that diabetes alone explains my appetite.
-
-My evening routine offers a possible example of learned associations. The sounds of my boyfriend cooking dinner have become associated with eating and spending time together. Those sounds now help me anticipate a pleasant evening, even when hunger does not prompt me to stop working.
-
-The sounds of cooking may function as conditioned cues for anticipation, but finishing my work is better understood as an action influenced by its consequences. This distinction matters: classical conditioning involves associations between stimuli, whereas operant conditioning concerns how consequences influence behavior (Pavlov, 1927; Skinner, 1953).
+1. **Unconditioned stimulus (UCS):** Learners read code that is properly formatted and well documented through comments. They may not directly understand the connection, but they may notice following along is easy.
+2. **Unconditioned response (UCR):** They write their own code. Writing functional code while keeping formatting clean and documentation comments clear and up to date is not as easy as it sounds. The code can work functionally, but they have difficulty reading it and explaining how it works to other learners. It takes practice to get this right.
+3. **Neutral stimulus (NS):** A class code review of another team's formatting and commenting would allow learners to see coders who are praised and coders who are corrected, without being directly exposed to the feedback. Additionally, they learn to give clear, professional feedback that echos and applies the principles they have learned. 
+4. **Conditioned stimulus (CS):** After repeated code reviews of their own work—a long but crucial process—the feedback becomes a signal that elicits social acceptance and avoidance of mistakes.
+5. **Conditioned response (CR):** Well formatted code and comments in preparation for the code review is the learned response.
 
 ### Operant Conditioning
 
 Operant conditioning has roots in Edward Thorndike’s animal-learning experiments in the late nineteenth century. His **law of effect** proposed that responses followed by satisfying consequences become more likely in similar situations (Thorndike, 1911). B. F. Skinner expanded the experimental study of how consequences influence behavior during the twentieth century (Skinner, 1953).
 
-The following hypothetical examples distinguish the four consequence categories:
+Brau et al. (2018) describe behaviorist teaching as arranging environmental conditions to encourage changes in observable behavior. For an instructional designer, this means specifying what learners should be able to do, creating opportunities to practice, and examining how consequences affect subsequent performance. 
+
+For example, a software-training objective could require learners to apply a specified formatting and commenting procedures. The designer would need to assess whether learners perform the procedure more reliably over time, rather than assuming that completing the training establishes learning. 
+
+A behaviorist approach to software training could establish observable objectives for formatting and commenting, such as using consistent spacing and writing comments that explain a function’s purpose. Peer review would provide social consequences or reward that might influence subsequent coding behavior. Specific approval could function as positive reinforcement if it increased adherence to those conventions, while criticism could function as punishment if it reduced a targeted behavior. However, the function of feedback depends on its observed effect rather than the reviewer’s intention (a joke) (Skinner, 1953). 
+
+As an instructional designer, I would take a different approach to my colleagues. I would provide a style guide and review criteria rather than leave learners to infer expectations from individual preferences. I might even run an exercise where learners decide on formatting and commenting rules as a group. I would assess whether their later code followed those conventions independently. I would also monitor review participation, because feedback that improves formatting while discouraging learners from sharing their work would create another instructional concern. I might say: “Remove extra blank lines so as to follow the team's style guide" identifies the desired change more clearly while emphasizing it is a group and social norm.
+
+The following hypothetical examples distinguish the four consequence categories from my perspective, working in my office:
 
 | Consequence | Environmental change | Effect on future behavior | Hypothetical example |
 |---|---|---|---|
-| **Positive reinforcement** | Something is added | Behavior increases | Offering warm appreciation when I join dinner on time increases how often I do so. |
-| **Negative reinforcement** | Something unpleasant is removed | Behavior increases | A distracting reminder stops when I leave my desk, increasing how quickly I leave when it sounds. |
-| **Positive punishment** | Something unpleasant is added | Behavior decreases | A loud alarm follows working past a cutoff time, reducing how often I continue working beyond it. |
-| **Negative punishment** | Something valued is removed | Behavior decreases | Losing access to a preferred evening activity after working late reduces how often I work late. |
+| **Positive reinforcement** | Something is added | Behavior increases | Offering positive, encouraging comment when the group establishes formatting or commenting guides |
+| **Negative reinforcement** | Something unpleasant is removed | Behavior increases | With better formatting and commenting, their code becomes easier to read and explain |
+| **Positive punishment** | Something unpleasant is added | Behavior decreases | During regular code reviews, they get  feedback that is visible to the group and goes against group norms |
+| **Negative punishment** | Something valued is removed | Behavior decreases | The independence and autonomy of merging code into the group repository is restricted. |
 
 These examples illustrate categories rather than recommendations. I find “additive” and “subtractive” helpful reminders because **positive and negative mean adding and removing, rather than good and bad**. Reinforcement increases behavior; punishment decreases it. Classification depends on the observed effect, not the person’s intention (Skinner, 1953).
 
@@ -77,17 +77,11 @@ Some key dates in the development of behaviorism are presented below:
 
 {% include behaviorism_timeline.html %}
 
-## Implications of Behaviorism in Animal Training
+## Implications of Behaviorism in Code Training
 
-Behaviorism has practical implications for training dogs and farm animals because it provides ways to understand learning through associations and consequences. I connect this approach to my seven years of experience training guide dog puppies through the Guide Dog Foundation.
+Behaviorism has practical implications for adult education and because it provides ways to understand learning through associations and consequences. In a very collaborative and social software development environment, social acceptance and teamwork shaped the desired actions and rewarded gradual progress toward more complex behaviors. For example, if developers, choose their own style or don't use group rules, the overall code base becomes incomprehensible and difficult for future coders to understand the intent of the code. Additionally, team cohesion suffers.
 
-Looking back, I recognize that positive reinforcement and shaping were forms of operant conditioning from the beginning of training, rather than techniques introduced only as the puppies grew older. We used treats to encourage desired actions and rewarded gradual progress toward more complex behaviors. This process reflects shaping through successive approximations (Skinner, 1953).
-
-For example, we taught puppies to sit and wait before receiving dinner. Providing dinner after a calm sit can reinforce sitting. If access to a food bowl is withdrawn following jumping and jumping subsequently decreases, that would illustrate negative punishment. Simply waiting to deliver food until a dog sits does not, by itself, establish that punishment has occurred.
-
-Another example was teaching a dog to “boop,” or touch its nose to a handler’s hand. We rewarded attempts that increasingly resembled the desired action. Once the dog performed the action reliably, we could associate it with a verbal cue and gradually introduce other targets. I see this as an example of building a useful skill through small, achievable steps.
-
-## Strengths and Limitations of Behaviorism in Animal Training
+## Strengths and Limitations of Behaviorism in Code Training
 
 Applying these techniques to animals on my farm, especially my two pigs, has helped me recognize the importance of training conditions. My pigs have learned to sit and wait for dinner in designated spots and accept brushing while they eat. However, their large enclosure and my less frequent contact with them may provide fewer opportunities for consistent practice than I had with the guide dog puppies.
 
@@ -97,7 +91,7 @@ With my own dogs, I have used an electronic training collar because of concerns 
 
 However, my observations alone cannot establish the collar’s overall effectiveness or its effects on welfare. The American Veterinary Society of Animal Behavior (2021) recommends reward-based training and identifies welfare risks associated with aversive methods, including electronic collars. This evidence adds an important limitation to my personal interpretation: an immediate change in behavior does not, by itself, demonstrate that a technique produces the best long-term outcome.
 
-My experience with dogs and farm animals shows me both the usefulness of behaviorist principles and the importance of applying them carefully. Understanding what precedes a behavior, what follows it, and whether it changes over time helps me interpret learning more accurately.
+My experiences suggest that behaviorism is particularly useful when the target performance is observable and can be practiced under clear conditions. In adult software training, it can guide the reinforcement of accurate procedures and increasingly independent performance. Its limitations become apparent when successful practice is treated as proof of understanding, motivation, or transfer. I would therefore use behaviorist principles as part of a broader instructional approach, assessing both immediate performance and later application. The central lesson I take from animal training is to examine what actually changes, under which conditions, and whether that change persists.
 
 # References
 
