@@ -265,9 +265,10 @@ Vygotsky's (1978) Zone of Proximal Development distinguishes independent perform
 
 ### Integrate disciplinary perspectives into a defensible recommendation
 **Independent Start:**  Learners can explain an issue through a familiar perspective but cannot yet independently balance spatial, financial, and community considerations.
+
 **Guided Performance:** A decision matrix and facilitated dialogue help learners compare competing criteria, explain trade-offs, and revise a proposal when another discipline exposes a weakness.
     
-**independent_target:** Each learner defends a recommendation using at least two disciplinary perspectives and explains how an additional constraint would change the decision.
+**Independent Target:** Each learner defends a recommendation using at least two disciplinary perspectives and explains how an additional constraint would change the decision.
 
 ## Scaffolding and Social Constructivism
 
@@ -302,12 +303,12 @@ A separate generative AI tool could provide instructor-reviewed practice questio
 
 This scenario treats learning as developing and revising a system of meaning through purposeful activity. Unique entry points establish where instruction can connect; ZPD assessment identifies what assistance makes possible; scaffolding bridges the gap toward independent performance. Social interaction exposes assumptions that solitary work may leave unexamined. Cross-disciplinary problems create a reason to integrate perspectives because no single lens sufficiently addresses the design challenge. The anticipated outcomes are stronger evidence-based reasoning, more deliberate experimentation, and greater capacity to explain trade-offs. These remain predictions to evaluate through baseline tasks, independent exit assessments, and a delayed transfer activity rather than assumed consequences of participation.
 
-The broader proposal is an education organized around evolving competency profiles and connected inquiries, potentially offering an alternative to a conventional major. Its credibility depends on transparent standards, sustained advising, disciplinary depth, and recognition beyond the classroom. Machine learning could help coordinate possible routes, while human judgment protects room for unexpected interests and growth. Each exit point becomes a possible entry into another inquiry. Successful completion therefore marks a defensible achievement and a newly visible horizon for learning, supporting a lifelong capacity to encounter unfamiliar questions with curiosity and increasingly effective strategies.
-
-## AI Use Disclosure
-I provided the originating ideas about unique entry and exit points, education beyond a conventional major, expanding range, and cross-disciplinary learning. AI help develop the fictional scenario, and helped locate and check reference information. 
+The broader proposal is an education organized around evolving competency profiles and connected inquiries, potentially offering an alternative to a conventional major. Its credibility depends on transparent standards, sustained advising, disciplinary depth, and recognition beyond the classroom. Machine learning could help coordinate possible routes, while human judgment protects room for unexpected interests and growth. Each exit point becomes a possible entry into another inquiry. Successful completion therefore marks a defensible achievement and a newly visible horizon for learning, supporting a lifelong capacity to encounter unfamiliar questions with curiosity and increasingly effective strategies. 
 
 ## References
+
+### AI Use Disclosure
+I provided the originating ideas about unique entry and exit points, education beyond a conventional major, expanding range, and cross-disciplinary learning. AI help develop the fictional scenario, and helped locate and check reference information.
  
  BSCS Science Learning. (n.d.). *The BSCS 5E instructional model: Origins and effectiveness*. https://bscs.org/reports/the-bscs-5e-instructional-model-origins-and-effectiveness/
  
