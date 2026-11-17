@@ -40,7 +40,7 @@ Behaviorism is an approach to psychology that emphasizes the scientific study of
 
 Behaviorism also provides principles for designing instruction around observable performance, practice, and consequences. In this reflection, I use my software training experience as a starting point for considering how these principles might support adult learning. 
 
-Here are some key dates:
+### Key Dates:
 {% include behaviorism_timeline.html %}
 
 ## Personal Context
@@ -531,7 +531,7 @@ For a workplace mentorship program, I would incorporate the following:
 
 These are proposed applications of connectivism rather than a formal mentorship model. They should include clear expectations and support because networked learning requires autonomy and the ability to evaluate information critically (Kop, 2011).
 
-## My Perspective: Strengths and Limitations
+## Strengths and Limitations
 
 I believe connectivism offers a useful foundation for workplace learning and mentorship because it recognizes that employees cannot acquire everything they need through formal training. Work responsibilities change, and employees benefit from knowing whom to consult and where to find current information. Mentorship can support this process by helping employees develop relationships and gradually become more independent.
 
