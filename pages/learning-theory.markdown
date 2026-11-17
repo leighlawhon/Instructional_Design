@@ -6,6 +6,14 @@ author: Leigh Lawhon
 ---
 
 {%include page_toc.html%}
+
+<div class="course-tabs">
+    <input type="radio" name="course-tabs" id="tab-overview" checked>
+    <label for="tab-overview">Overview</label>
+    <input type="radio" name="course-tabs" id="tab-assignments">
+    <label for="tab-assignments">Assignments</label>
+        <div class="course-tabs__panel" id="panel-overview" markdown="1">
+
 <a name="#unit1"></a>
 # Unit 1: Copyright
 
@@ -34,7 +42,7 @@ If you share or adapt my work, I would love to hear from you. Notification is ap
 <a name="unit2"> </a>
 # Unit 2: Behaviorism 
 
-## Overview of Behaviorism
+## Overview
 
 Behaviorism is an approach to psychology that emphasizes the scientific study of behavior and its relationship with the environment. Its emergence in the early twentieth century represented a shift away from introspection, which relied on people describing their conscious experiences, toward observable and measurable evidence. In his 1913 article, *Psychology as the Behaviorist Views It*, John B. Watson argued that psychology should be an objective, experimental science concerned with predicting and controlling behavior. His approach challenged prevailing assumptions about what counted as scientific evidence in psychology (Watson, 1913).
 
@@ -178,7 +186,322 @@ Watson, J. B. (1913). Psychology as the behaviorist views it. *Psychological Rev
 
 # Unit 3: Cognativism
 
-## Understanding How I Learn
+
+
+
+<a name="unit4"> </a>
+
+# Unit 4: Constructivim
+
+## Overview 
+
+Constructivism holds that learners actively construct understanding by connecting new information to existing knowledge and experiences. An instructor can provide information, examples, and explanations, but learners must interpret and integrate them. Teaching therefore involves creating opportunities for investigation, discussion, experimentation, and reflection.
+
+Constructivism developed through several related traditions rather than originating with one researcher or publication.
+
+{% include constructivism_timeline.html %}
+
+These contributions connect individual meaning-making with learning through social interaction. Piaget emphasizes changes in the learner’s cognitive structures, while Vygotsky emphasizes the social and cultural mediation of development. Scaffolding provides a practical connection between challenging tasks and supported participation (Piaget, 1936/1952; Vygotsky, 1978; Wood et al., 1976).
+
+## Implications for Instructional Design
+
+Constructivist learning design begins by identifying what learners already understand and creating a meaningful problem that requires them to extend that understanding. In an **in-person library signage workshop**, the central challenge could be:
+
+> How can we redesign library signs so that first-time visitors can locate important services more easily?
+
+Participants might include library employees, volunteers, and community members. They would work with temporary signs and prototypes before recommending permanent changes.
+
+### Recognize Unique Entry Points
+
+Participants will approach the problem through different experiences. A library employee may understand common visitor questions, a community member may recognize confusing terminology, and a participant with design experience may notice problems with visual hierarchy.
+
+The facilitator can begin with a brief navigation task and discussion:
+
+- Which signs helped you make a decision?
+- Where did you hesitate?
+- What knowledge did the signs assume you already had?
+- What would a first-time visitor need?
+
+These activities reveal existing knowledge and assumptions. Entry points guide support and participation without becoming fixed labels that restrict what someone can learn.
+
+### Design for Discovery and Experimentation
+
+Participants should investigate how signs function in the actual library. Small groups can select a destination, observe decision points, and create two alternative signs. They can then test the prototypes with consenting participants unfamiliar with the route.
+
+For example, a group might compare “Circulation” with “Borrow and Return Books.” Before testing, learners predict which wording will be clearer and explain why. They then record wrong turns, requests for assistance, and participant comments.
+
+A mismatch between predictions and observations gives learners a reason to revise their understanding. They may discover that terminology familiar to employees is unfamiliar to visitors, or that placement matters as much as wording.
+
+### Provide Scaffolding Within the ZPD
+
+Constructivism does not require learners to discover every design principle independently. Participants may need guidance to:
+
+- Translate specialized terminology into clear language.
+- Design a comparison that produces useful evidence.
+- Explain design decisions using observations rather than preferences.
+
+The facilitator can model one example, provide a test-planning checklist, and ask questions such as, “What changed between these versions?” or “What evidence supports that conclusion?” As learners become more capable, the facilitator reduces prompts and asks them to plan and justify their own revisions.
+
+This approach reflects scaffolding as responsive assistance rather than a permanent template (Wood et al., 1976).
+
+### Support Collaborative Knowledge Construction
+
+Groups should discuss competing interpretations rather than simply divide tasks. One participant might favor a visually striking sign, while another questions whether its language is understandable. The group must examine evidence and negotiate a recommendation.
+
+Rotating roles—designer, observer, tester, and discussion facilitator—allows participants to practice beyond their initial strengths. Collaboration becomes a way to encounter alternative perspectives and reconsider assumptions.
+
+### Assess Learning Through Performance and Reflection
+
+Assessment should examine both the resulting sign and the reasoning behind it. Each participant could explain:
+
+1. Their original assumption.
+2. What the test revealed.
+3. How they revised the design.
+4. How they would apply the lesson to another location.
+
+Participants may have **unique exit points**, such as improved visual communication, stronger testing skills, or greater awareness of visitor perspectives. Nevertheless, everyone should meet shared minimum expectations: identify a navigation problem, use evidence to justify a revision, and explain relevant limitations.
+
+## Strengths and Limitations
+
+### Strengths
+
+In my view, constructivism is particularly appropriate for a library signage workshop because the problem requires judgment in context. A sign’s usefulness depends on its wording, placement, surrounding environment, and audience. Working in the library allows participants to examine those relationships directly.
+
+The approach also encourages participants to question familiar assumptions. Employees may know where everything is and underestimate how much interpretation a visitor must perform. Observing someone navigate can make that gap visible and provide a concrete reason to reconsider a design.
+
+Another strength is **cross-disciplinary learning**. Signage connects graphic design, language, spatial reasoning, accessibility, and user research. Participants can enter through a familiar area and expand their understanding through another. Someone interested in typography, for example, may discover the importance of testing and observation.
+
+Finally, constructing and defending a revision makes learning visible. Participants demonstrate how their thinking changed, rather than merely repeat design vocabulary.
+
+### Limitations
+
+The main limitation is the possibility of insufficient guidance. Beginners may spend considerable time experimenting without recognizing why a design succeeds or fails. Alfieri et al. (2011) distinguished unassisted discovery from supported discovery, finding more favorable results for approaches that incorporated assistance. I would therefore combine exploration with concise demonstrations, feedback, and explicit instruction.
+
+Time is another constraint. Conducting observations, creating prototypes, testing, and revising may exceed a short workshop. I would limit each group to one destination and one focused design question.
+
+Group participation can also be uneven. Confident participants may dominate decisions, while others defer despite having useful insights. Individual reflection before discussion, rotating roles, and individual explanations would help reveal each learner’s understanding.
+
+Finally, a small workshop test cannot establish that signage works for every visitor. Classmates cannot represent the full diversity of library users. I would treat the prototypes as preliminary proposals requiring broader user feedback and review against applicable accessibility requirements.
+
+My judgment is that constructivism offers a strong foundation for this workshop when inquiry is paired with clear guidance and credible evidence. The facilitator’s role is to help participants turn observations into increasingly defensible decisions.
+
+## References
+
+Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1–18. [https://doi.org/10.1037/a0021017](https://doi.org/10.1037/a0021017)
+
+Bruner, J. S. (1961). The act of discovery. *Harvard Educational Review, 31*, 21–32. [Article reprint](https://digitalauthorship.org/wp-content/uploads/2015/01/the-act-of-discovery-bruner.pdf)
+
+Dewey, J. (1916). *Democracy and education: An introduction to the philosophy of education*. Macmillan.
+
+Dewey, J. (1938). *Experience and education*. Macmillan.
+
+Piaget, J. (1952). *The origins of intelligence in children* (M. Cook, Trans.). International Universities Press. (Original work published 1936)
+
+Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes* (M. Cole, V. John-Steiner, S. Scribner, & E. Souberman, Eds.). Harvard University Press. [https://doi.org/10.2307/j.ctvjf9vz4](https://doi.org/10.2307/j.ctvjf9vz4)
+
+Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [https://doi.org/10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)
+
+
+
+<a name="unit5"> </a>
+
+# Unit 5: Connectivism 
+
+## Overview and Connections to Teaching and Learning
+
+Connectivism views learning as a process of developing and maintaining connections among people, information sources, and digital tools. George Siemens introduced the concept online in 2004 and published his foundational article in 2005. Stephen Downes further developed the perspective, explaining that knowledge is distributed across networks and that learning involves forming and navigating these connections (Downes, 2012; Siemens, 2005).
+
+In 2008, Siemens and Downes demonstrated these principles through *Connectivism and Connective Knowledge* (CCK08), an early massive open online course. Participants learned by interacting with resources, sharing ideas, and contributing to a distributed learning network (Downes, 2009).
+
+These ideas are relevant to workplace learning and mentorship. Employees learn through formal training, conversations with colleagues, access to organizational resources, and guidance from experienced professionals. From a connectivist perspective, a mentor can help an employee build a broader network of expertise. For example, a mentor might introduce a new employee to colleagues in other departments, recommend reliable resources, and demonstrate how to seek assistance when facing an unfamiliar task. This application reflects Siemens’s (2005) emphasis on knowing where to find knowledge and maintaining connections that support continued learning.
+
+### Key Dates
+{% include connectivism_timeline.html%}
+
+## Implications for Instructional Design
+
+Applying connectivism to workplace learning means designing opportunities for employees to access expertise, exchange knowledge, and apply what they learn. Instructional designers should consider how learning will continue after a course or onboarding program ends.
+
+For a workplace mentorship program, I would incorporate the following:
+
+- **Network-building activities.** Ask mentors to help employees identify people, communities, and resources relevant to their responsibilities.
+- **Authentic work problems.** Have employees address a real task using mentor guidance, colleague input, and organizational resources.
+- **Knowledge sharing.** Provide opportunities for employees to contribute examples, lessons learned, and useful resources to a shared knowledge base.
+- **Reflection and feedback.** Use mentoring conversations to examine what employees learned, how they evaluated advice, and how they applied it.
+- **Assessment through performance.** Evaluate employees’ ability to solve problems, explain decisions, and locate appropriate support.
+
+These are proposed applications of connectivism rather than a formal mentorship model. They should include clear expectations and support because networked learning requires autonomy and the ability to evaluate information critically (Kop, 2011).
+
+## Strengths and Limitations
+
+I believe connectivism offers a useful foundation for workplace learning and mentorship because it recognizes that employees cannot acquire everything they need through formal training. Work responsibilities change, and employees benefit from knowing whom to consult and where to find current information. Mentorship can support this process by helping employees develop relationships and gradually become more independent.
+
+For example, I would design an onboarding program in which a new employee works with a mentor to complete a project requiring input from several departments. The mentor would help the employee identify relevant expertise, evaluate recommendations, and reflect on the outcome. The employee would leave the experience with both practical knowledge and relationships that could support future work.
+
+However, the quality of a learning network matters. An employee may receive outdated advice, encounter conflicting information, or rely too heavily on one mentor. Access may also be unequal if some employees have more opportunities to connect with experienced colleagues. I would address these concerns through multiple sources of support, reviewed organizational resources, and scheduled mentoring opportunities.
+
+Another limitation is that access to expertise does not guarantee understanding. Employees still need foundational knowledge and opportunities to practice independently. Kop and Hill (2008) questioned whether connectivism sufficiently explains learning beyond existing theories, while Kop (2011) identified challenges involving learner autonomy and participation. For these reasons, I would combine networked learning and mentorship with clear instruction, guided practice, and feedback. This approach would support both immediate job performance and employees’ capacity to continue learning throughout their careers.
+
+## References
+
+Downes, S. (2009, February 16). *Access2OER: The CCK08 solution*. Stephen’s Web. https://www.downes.ca/post/53418
+
+Downes, S. (2012). *Connectivism and connective knowledge: Essays on meaning and learning networks*. National Research Council Canada. https://www.downes.ca/files/books/Connective_Knowledge-19May2012.pdf
+
+Kop, R. (2011). The challenges to connectivist learning on open online networks: Learning experiences during a massive open online course. *The International Review of Research in Open and Distance Learning, 12*(3), 19–38. https://doi.org/10.19173/irrodl.v12i3.882
+
+Kop, R., & Hill, A. (2008). Connectivism: Learning theory of the future or vestige of the past? *The International Review of Research in Open and Distance Learning, 9*(3), 1–13. https://doi.org/10.19173/irrodl.v9i3.523
+
+Siemens, G. (2005). Connectivism: A learning theory for the digital age. *International Journal of Instructional Technology and Distance Learning, 2*(1), 3–10. https://www.itdl.org/Journal/Jan_05/article01.htm
+
+<a name="unit6"> </a>
+
+# Unit 6
+
+<a name="unit7"> </a>
+
+# Unit 7
+
+<a name="unit8"> </a>
+
+# Unit 8
+
+ </div>
+    <div class="course-tabs__panel" id="panel-assignments" markdown="1">
+
+# Unit 2: Applying Behaviorism and Gagné’s Nine Events Lesson Plan Outline
+
+**Student Name:** Leigh Lawhon  
+**Course:** LDTC 600  
+**Date:** 10/27/2026
+
+## 1. Subject Selection
+
+**Chosen Subject:** Applying Team Formatting and Commenting Standards Through Developer Code Review
+
+This lesson introduces beginning software developers to reviewing and revising code using a shared style guide. Learners practice identifying formatting issues, writing useful comments, and giving specific, professional feedback. The focus is on observable review behaviors and applying team conventions consistently.
+
+## 2. Scenario Development
+
+**Learning Scenario:**
+
+I want to help beginning developers participate confidently in code review. When I was a designer transitioning into coding, a colleague left an inline comment containing farm animals to suggest that I had left too many blank lines in my code. The joke drew attention to the issue, but it did not clearly explain the expected standard. In this lesson, I would make those expectations explicit and teach learners how to give feedback that helps someone revise their work.
+
+Learners will work with a short JavaScript function, a team style guide, and a review checklist. The guide will specify spacing conventions and explain when comments should clarify purpose or nonobvious reasoning. Learners will review a practice submission, exchange feedback, and revise their code before completing an independent assessment.
+
+I will use specific recognition to encourage the desired behaviors. For instance, I might say, “You identified the extra blank lines, connected your feedback to the style guide, and explained the revision clearly.” This recognition would function as positive reinforcement if those behaviors increased in later reviews. I will also recognize helpful collaboration, while checking each learner’s performance independently.
+
+During practice, learners can “Ask a Reviewer”—a classmate or me—when they need help interpreting a guideline. I will record the support needed to plan further instruction. Practice assistance will not count as evidence of independent mastery. Incorrect responses will receive clear corrective feedback and an opportunity to revise. Sarcasm and public embarrassment will have no role in the review process.
+
+## 3. Lesson Plan Outline
+
+**Instructional Framework:** Gagné’s Nine Events of Instruction  
+**Audience:** Beginning developers who can read and write a basic JavaScript function  
+**Estimated Duration:** 60 minutes  
+**Materials:** Team style guide, review checklist, practice code, independent assessment code, and a shared editor or review tool
+
+### 1. Gain Attention — 5 minutes
+
+Display two versions of the same working function: one with inconsistent spacing and unclear comments, and one that follows the team’s conventions. Ask learners to identify which version would be easier to review and maintain, and explain why.
+
+**Script:** “Both versions produce the same result. What makes one easier for another developer to understand? Today, we will practice making code easier to review and giving feedback that helps the author improve it.”
+
+### 2. Inform Learners of Objectives — 3 minutes
+
+Explain that, by the end of the lesson, learners will independently:
+
+- Identify at least four of five deliberately included formatting or commenting issues in a short code submission.
+- Revise the submission to meet all five corresponding style-guide criteria without changing its behavior.
+- Write two professional review comments, each identifying a specific issue, connecting it to a shared criterion, and suggesting an actionable revision.
+
+**Script:** “You can ask for help during practice. At the end, you will review a new submission independently using the same style guide and checklist. You will demonstrate both how to improve the code and how to explain the change respectfully.”
+
+### 3. Stimulate Recall of Prior Learning — 5 minutes
+
+Ask learners to recall a time when they read someone else’s code or returned to their own code after a break.
+
+**Prompts:** “What helped you understand the function? Which comments added useful information? What made feedback easy or difficult to act on?”
+
+Briefly review the distinction between code that runs correctly and code that follows agreed team conventions. Invite learners to connect their observations to the displayed submissions.
+
+### 4. Present the Content — 10 minutes
+
+Introduce the team style guide and explain the purpose of each review criterion. Model a review of a short function by identifying excessive blank lines, inconsistent indentation, an inaccurate comment, and a comment that merely repeats an obvious statement.
+
+Think aloud while revising the submission. Show how a comment can explain a function’s purpose or a nonobvious decision. Run the supplied checks before and after the revision to confirm that the changes preserve behavior.
+
+Model this review comment: “Remove the extra blank lines between these statements to follow the team’s spacing convention.” Explain how it identifies a location, names the criterion, and requests a concrete change.
+
+### 5. Provide Learning Guidance — 5 minutes
+
+Introduce a review checklist:
+
+1. Read the function to understand its intended behavior.
+2. Compare spacing and indentation with the team style guide.
+3. Check whether comments are accurate and explain useful information.
+4. Write feedback that names the issue and suggests a revision.
+5. Revise the code and check that it still behaves as intended.
+
+Provide a feedback sentence frame: “In [location], [specific issue] differs from [criterion]. Please [actionable revision].” Explain that learners can adapt the wording as long as the feedback remains clear and professional.
+
+### 6. Elicit Performance Through Practice — 12 minutes
+
+Give pairs a practice function containing five planned formatting and commenting issues. Each learner first identifies issues individually. Partners then compare findings, write review comments, and revise the code.
+
+Learners may use “Ask a Reviewer” when they need help. I will prompt them to locate the relevant guideline and explain their reasoning before offering a direct answer. Partners will switch author and reviewer roles so each person practices giving and applying feedback.
+
+### 7. Provide Feedback — 5 minutes
+
+Provide immediate, specific feedback during practice and use this time to discuss common findings.
+
+**Recognition:** “Your comment names the spacing issue and points to the shared rule. That gives the author a clear next step.”
+
+**Correction:** “You noticed that the comment needs work. Explain what is inaccurate and suggest wording that matches the function’s behavior.”
+
+Ask authors to paraphrase the requested change. If the request is unclear, help the reviewer revise it. Track whether learners apply this feedback in subsequent comments rather than assuming that praise or correction has produced learning.
+
+### 8. Assess Performance — 10 minutes
+
+Provide a new function containing five deliberately included issues aligned with the same style guide. Learners complete the review independently with access to the guide and checklist, but without peer or instructor coaching.
+
+Assess three components:
+
+- **Identification:** Correctly identifies at least four of the five planned issues.
+- **Revision:** Meets all five targeted style-guide criteria and preserves the function’s behavior, verified with the supplied checks.
+- **Feedback:** Writes two comments, each stating a specific issue, connecting it to a criterion, and proposing an actionable revision in professional language.
+
+Learners must meet each component rather than compensate for one weakness with a higher score elsewhere. Those who need further practice receive targeted feedback and another opportunity using a different submission. Record assisted practice separately from independent assessment.
+
+### 9. Enhance Retention and Transfer — 5 minutes
+
+Ask learners to identify one review habit they will use in their next project. Discuss how they would respond if another team used different conventions: they should consult that team’s guide and distinguish shared requirements from personal preferences.
+
+In the next class or project review, have learners apply the process to unfamiliar code and explain one revision. Compare their performance with the initial assessment to check retention and transfer. Continue access to the style guide while reducing instructor reminders as learners become more independent.
+
+## 4. Reflection
+
+**Reflection on Behaviorism and Gagné’s Nine Events:**
+
+My experience receiving a sarcastic code review comment helps me see why clear expectations matter. I learned that my spacing differed from my colleagues’ preferences, but the feedback did not provide a useful rule I could apply independently. As an instructor, I would establish shared criteria before asking learners to submit work and model the kind of feedback I want them to give.
+
+Behaviorism helps me focus on observable actions: identifying issues, applying conventions, and writing actionable review comments. Specific recognition may encourage these behaviors, but I need to examine later submissions to determine whether it functions as reinforcement. Corrective feedback also needs to identify what learners should change and give them an opportunity to practice the revision.
+
+Code review can involve learned emotional associations as well as consequences for performance. Repeatedly humiliating feedback could make review cues uncomfortable for a learner. That possibility strengthens my commitment to respectful, predictable review conditions. I would monitor willingness to ask questions and submit work alongside improvements in formatting.
+
+Gagné’s nine events give the lesson a sequence from attention and recall through guided practice, independent assessment, and transfer. The paired practice allows learners to exchange explanations, while the individual assessment shows what each person can do without coaching. Using a style guide during assessment reflects how developers work and measures application rather than memorization.
+
+A limitation of this lesson is that following conventions does not establish broader programming competence. I would ask learners to explain their choices and apply the review process to unfamiliar code to gather evidence of understanding. I would also check that revisions preserve behavior rather than reward appearance alone.
+
+I used AI to help adapt my original algebra lesson into a developer code review lesson and align the activities with the discussion of behaviorism. The personal code review experience came from my own reflection. I remain responsible for reviewing the draft, checking it against course materials, and following the course’s AI-use requirements.
+
+## 5. References
+
+Skinner, B. F. (1953). *Science and human behavior*. Macmillan. https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf
+
+*Reference completion note: Add the assigned course source for Gagné’s nine events and any required AI citation before submission. Its bibliographic information was not included in the original outline.*
+
+
+# Unit 3: Cognativism Understanding How I Learn
 
 I taught myself to code, enjoyed solving puzzles, and was placed in advanced mathematics classes in school. I loved Statistics. It made sense. I can reverse engineer, breakdown and reorganize essays, and understand the big picture of complex systems as a whole.
 
@@ -288,120 +611,6 @@ Vygotsky, L. S. (1978). *Mind in society: The development of higher psychologica
 
 Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x
 
-
-<a name="unit4"> </a>
-
-# Unit 4: Constructivim
-# Constructivism in an In-Person Library Signage Workshop
-
-## Overview of Constructivism
-
-Constructivism holds that learners actively construct understanding by connecting new information to existing knowledge and experiences. An instructor can provide information, examples, and explanations, but learners must interpret and integrate them. Teaching therefore involves creating opportunities for investigation, discussion, experimentation, and reflection.
-
-Constructivism developed through several related traditions rather than originating with one researcher or publication.
-
-{% include constructivism_timeline.html %}
-
-These contributions connect individual meaning-making with learning through social interaction. Piaget emphasizes changes in the learner’s cognitive structures, while Vygotsky emphasizes the social and cultural mediation of development. Scaffolding provides a practical connection between challenging tasks and supported participation (Piaget, 1936/1952; Vygotsky, 1978; Wood et al., 1976).
-
-## Implications for Instructional Design
-
-Constructivist learning design begins by identifying what learners already understand and creating a meaningful problem that requires them to extend that understanding. In an **in-person library signage workshop**, the central challenge could be:
-
-> How can we redesign library signs so that first-time visitors can locate important services more easily?
-
-Participants might include library employees, volunteers, and community members. They would work with temporary signs and prototypes before recommending permanent changes.
-
-### Recognize Unique Entry Points
-
-Participants will approach the problem through different experiences. A library employee may understand common visitor questions, a community member may recognize confusing terminology, and a participant with design experience may notice problems with visual hierarchy.
-
-The facilitator can begin with a brief navigation task and discussion:
-
-- Which signs helped you make a decision?
-- Where did you hesitate?
-- What knowledge did the signs assume you already had?
-- What would a first-time visitor need?
-
-These activities reveal existing knowledge and assumptions. Entry points guide support and participation without becoming fixed labels that restrict what someone can learn.
-
-### Design for Discovery and Experimentation
-
-Participants should investigate how signs function in the actual library. Small groups can select a destination, observe decision points, and create two alternative signs. They can then test the prototypes with consenting participants unfamiliar with the route.
-
-For example, a group might compare “Circulation” with “Borrow and Return Books.” Before testing, learners predict which wording will be clearer and explain why. They then record wrong turns, requests for assistance, and participant comments.
-
-A mismatch between predictions and observations gives learners a reason to revise their understanding. They may discover that terminology familiar to employees is unfamiliar to visitors, or that placement matters as much as wording.
-
-### Provide Scaffolding Within the ZPD
-
-Constructivism does not require learners to discover every design principle independently. Participants may need guidance to:
-
-- Translate specialized terminology into clear language.
-- Design a comparison that produces useful evidence.
-- Explain design decisions using observations rather than preferences.
-
-The facilitator can model one example, provide a test-planning checklist, and ask questions such as, “What changed between these versions?” or “What evidence supports that conclusion?” As learners become more capable, the facilitator reduces prompts and asks them to plan and justify their own revisions.
-
-This approach reflects scaffolding as responsive assistance rather than a permanent template (Wood et al., 1976).
-
-### Support Collaborative Knowledge Construction
-
-Groups should discuss competing interpretations rather than simply divide tasks. One participant might favor a visually striking sign, while another questions whether its language is understandable. The group must examine evidence and negotiate a recommendation.
-
-Rotating roles—designer, observer, tester, and discussion facilitator—allows participants to practice beyond their initial strengths. Collaboration becomes a way to encounter alternative perspectives and reconsider assumptions.
-
-### Assess Learning Through Performance and Reflection
-
-Assessment should examine both the resulting sign and the reasoning behind it. Each participant could explain:
-
-1. Their original assumption.
-2. What the test revealed.
-3. How they revised the design.
-4. How they would apply the lesson to another location.
-
-Participants may have **unique exit points**, such as improved visual communication, stronger testing skills, or greater awareness of visitor perspectives. Nevertheless, everyone should meet shared minimum expectations: identify a navigation problem, use evidence to justify a revision, and explain relevant limitations.
-
-## Strengths and Limitations
-
-### Strengths
-
-In my view, constructivism is particularly appropriate for a library signage workshop because the problem requires judgment in context. A sign’s usefulness depends on its wording, placement, surrounding environment, and audience. Working in the library allows participants to examine those relationships directly.
-
-The approach also encourages participants to question familiar assumptions. Employees may know where everything is and underestimate how much interpretation a visitor must perform. Observing someone navigate can make that gap visible and provide a concrete reason to reconsider a design.
-
-Another strength is **cross-disciplinary learning**. Signage connects graphic design, language, spatial reasoning, accessibility, and user research. Participants can enter through a familiar area and expand their understanding through another. Someone interested in typography, for example, may discover the importance of testing and observation.
-
-Finally, constructing and defending a revision makes learning visible. Participants demonstrate how their thinking changed, rather than merely repeat design vocabulary.
-
-### Limitations
-
-The main limitation is the possibility of insufficient guidance. Beginners may spend considerable time experimenting without recognizing why a design succeeds or fails. Alfieri et al. (2011) distinguished unassisted discovery from supported discovery, finding more favorable results for approaches that incorporated assistance. I would therefore combine exploration with concise demonstrations, feedback, and explicit instruction.
-
-Time is another constraint. Conducting observations, creating prototypes, testing, and revising may exceed a short workshop. I would limit each group to one destination and one focused design question.
-
-Group participation can also be uneven. Confident participants may dominate decisions, while others defer despite having useful insights. Individual reflection before discussion, rotating roles, and individual explanations would help reveal each learner’s understanding.
-
-Finally, a small workshop test cannot establish that signage works for every visitor. Classmates cannot represent the full diversity of library users. I would treat the prototypes as preliminary proposals requiring broader user feedback and review against applicable accessibility requirements.
-
-My judgment is that constructivism offers a strong foundation for this workshop when inquiry is paired with clear guidance and credible evidence. The facilitator’s role is to help participants turn observations into increasingly defensible decisions.
-
-## References
-
-Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1–18. [https://doi.org/10.1037/a0021017](https://doi.org/10.1037/a0021017)
-
-Bruner, J. S. (1961). The act of discovery. *Harvard Educational Review, 31*, 21–32. [Article reprint](https://digitalauthorship.org/wp-content/uploads/2015/01/the-act-of-discovery-bruner.pdf)
-
-Dewey, J. (1916). *Democracy and education: An introduction to the philosophy of education*. Macmillan.
-
-Dewey, J. (1938). *Experience and education*. Macmillan.
-
-Piaget, J. (1952). *The origins of intelligence in children* (M. Cook, Trans.). International Universities Press. (Original work published 1936)
-
-Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes* (M. Cole, V. John-Steiner, S. Scribner, & E. Souberman, Eds.). Harvard University Press. [https://doi.org/10.2307/j.ctvjf9vz4](https://doi.org/10.2307/j.ctvjf9vz4)
-
-Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [https://doi.org/10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)
-
 # Unit 4: Scenario
 At the Harbor Community College, 24 adult learners enroll in a six-week Enhancing Public Space Workshop. The workshop is a pilot program for a proposed interdisciplinary degree pathway in which students build a coherent education through a unique self-directed degree, which allows learners to build competencies across topics and decide on their own completion. 
 
@@ -502,58 +711,6 @@ I provided the originating ideas about unique entry and exit points, education b
  
  Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x
 
-<a name="unit5"> </a>
-
-# Unit 5: Connectivism 
-
-## Overview and Connections to Teaching and Learning
-
-Connectivism views learning as a process of developing and maintaining connections among people, information sources, and digital tools. George Siemens introduced the concept online in 2004 and published his foundational article in 2005. Stephen Downes further developed the perspective, explaining that knowledge is distributed across networks and that learning involves forming and navigating these connections (Downes, 2012; Siemens, 2005).
-
-In 2008, Siemens and Downes demonstrated these principles through *Connectivism and Connective Knowledge* (CCK08), an early massive open online course. Participants learned by interacting with resources, sharing ideas, and contributing to a distributed learning network (Downes, 2009).
-
-These ideas are relevant to workplace learning and mentorship. Employees learn through formal training, conversations with colleagues, access to organizational resources, and guidance from experienced professionals. From a connectivist perspective, a mentor can help an employee build a broader network of expertise. For example, a mentor might introduce a new employee to colleagues in other departments, recommend reliable resources, and demonstrate how to seek assistance when facing an unfamiliar task. This application reflects Siemens’s (2005) emphasis on knowing where to find knowledge and maintaining connections that support continued learning.
-
-### Key Dates
-{% include connectivism_timeline.html%}
-
-## Implications for Instructional Design
-
-Applying connectivism to workplace learning means designing opportunities for employees to access expertise, exchange knowledge, and apply what they learn. Instructional designers should consider how learning will continue after a course or onboarding program ends.
-
-For a workplace mentorship program, I would incorporate the following:
-
-- **Network-building activities.** Ask mentors to help employees identify people, communities, and resources relevant to their responsibilities.
-- **Authentic work problems.** Have employees address a real task using mentor guidance, colleague input, and organizational resources.
-- **Knowledge sharing.** Provide opportunities for employees to contribute examples, lessons learned, and useful resources to a shared knowledge base.
-- **Reflection and feedback.** Use mentoring conversations to examine what employees learned, how they evaluated advice, and how they applied it.
-- **Assessment through performance.** Evaluate employees’ ability to solve problems, explain decisions, and locate appropriate support.
-
-These are proposed applications of connectivism rather than a formal mentorship model. They should include clear expectations and support because networked learning requires autonomy and the ability to evaluate information critically (Kop, 2011).
-
-## Strengths and Limitations
-
-I believe connectivism offers a useful foundation for workplace learning and mentorship because it recognizes that employees cannot acquire everything they need through formal training. Work responsibilities change, and employees benefit from knowing whom to consult and where to find current information. Mentorship can support this process by helping employees develop relationships and gradually become more independent.
-
-For example, I would design an onboarding program in which a new employee works with a mentor to complete a project requiring input from several departments. The mentor would help the employee identify relevant expertise, evaluate recommendations, and reflect on the outcome. The employee would leave the experience with both practical knowledge and relationships that could support future work.
-
-However, the quality of a learning network matters. An employee may receive outdated advice, encounter conflicting information, or rely too heavily on one mentor. Access may also be unequal if some employees have more opportunities to connect with experienced colleagues. I would address these concerns through multiple sources of support, reviewed organizational resources, and scheduled mentoring opportunities.
-
-Another limitation is that access to expertise does not guarantee understanding. Employees still need foundational knowledge and opportunities to practice independently. Kop and Hill (2008) questioned whether connectivism sufficiently explains learning beyond existing theories, while Kop (2011) identified challenges involving learner autonomy and participation. For these reasons, I would combine networked learning and mentorship with clear instruction, guided practice, and feedback. This approach would support both immediate job performance and employees’ capacity to continue learning throughout their careers.
-
-## References
-
-Downes, S. (2009, February 16). *Access2OER: The CCK08 solution*. Stephen’s Web. https://www.downes.ca/post/53418
-
-Downes, S. (2012). *Connectivism and connective knowledge: Essays on meaning and learning networks*. National Research Council Canada. https://www.downes.ca/files/books/Connective_Knowledge-19May2012.pdf
-
-Kop, R. (2011). The challenges to connectivist learning on open online networks: Learning experiences during a massive open online course. *The International Review of Research in Open and Distance Learning, 12*(3), 19–38. https://doi.org/10.19173/irrodl.v12i3.882
-
-Kop, R., & Hill, A. (2008). Connectivism: Learning theory of the future or vestige of the past? *The International Review of Research in Open and Distance Learning, 9*(3), 1–13. https://doi.org/10.19173/irrodl.v9i3.523
-
-Siemens, G. (2005). Connectivism: A learning theory for the digital age. *International Journal of Instructional Technology and Distance Learning, 2*(1), 3–10. https://www.itdl.org/Journal/Jan_05/article01.htm
-
-
 # Unit 5: Building My Personal Learning Network (PLN) for Simulation-Based Training
 
 ## Part I: Creating My PLN
@@ -629,15 +786,5 @@ Before applying information, I will examine the author’s expertise, supporting
 I will also consider whether evidence applies to my intended learners and training context. An approach that works in healthcare, for example, may require creative adaptation before it is useful in aviation training.
 
 Every three months, I will review whether my PLN is helping me improve my projects and identify gaps in my knowledge or connections. Through this cycle of connecting, creating, seeking feedback, and revising, I can make lifelong learning a practical part of my professional development.
-
-<a name="unit6"> </a>
-
-# Unit 6
-
-<a name="unit7"> </a>
-
-# Unit 7
-
-<a name="unit8"> </a>
-
-# Unit 8
+    </div>
+</div>
