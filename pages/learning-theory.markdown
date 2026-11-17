@@ -1,8 +1,12 @@
 ---
-layout: archive
+layout: home
 title:  "Learning Theory (LDTC 600)"
+author_profile: true
+author: Leigh Lawhon
 ---
 
+{%include page_toc.html%}
+<a name="#unit1"></a>
 # Unit 1: Copyright
 
 For this website, I have chosen the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)** for my original written content and graphics, except where otherwise noted. This license allows others to share and adapt covered material for noncommercial purposes, provided they give appropriate credit, indicate whether changes were made, and distribute adaptations under the same license (Creative Commons, n.d.).

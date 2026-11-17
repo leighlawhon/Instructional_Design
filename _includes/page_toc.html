@@ -1,0 +1,22 @@
+{% assign menu = site.data.lxd600 %}
+
+<aside class="sidebar__right sticky">
+    <nav class="toc" aria-label="{{ menu.title | escape }}">
+        <header>
+            <h4 class="nav__title">{{ menu.title | escape }}</h4>
+        </header>
+        <ul class="toc__menu">
+            {% for item in menu.items %}
+            {% assign first_character = item.url | slice: 0 %}
+            {% if first_character == "#" %}
+            {% assign href = item.url %}
+            {% else %}
+            {% assign href = item.url | relative_url %}
+            {% endif %}
+            <li>
+                <a href="{{ href | escape }}">{{ item.title | escape }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</aside>
