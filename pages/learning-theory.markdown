@@ -245,7 +245,7 @@ Each team tests two versions of one intervention, such as signage, seating arran
 
 Vygotsky's (1978) Zone of Proximal Development distinguishes independent performance from performance possible with capable assistance. The instructor identifies each learner's ZPD through a brief attempt, a graduated prompt, and another attempt. A task belongs within the learner's working ZPD when assistance enables meaningful progress that independent performance does not yet support. If even substantial guidance produces little understanding, the instructor first addresses prerequisite knowledge. The three skills below are initial hypotheses that must be confirmed individually.
 
-## Skills
+## ZPD Skills
 
 ### Interpret quantitative evidence alongside community perspectives
 
@@ -326,11 +326,92 @@ I provided the originating ideas about unique entry and exit points, education b
  
  Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x
 
+<a name="unit5"> </a>
 
-# Unit 5
+# Unit 5: Building My Personal Learning Network (PLN) for Simulation-Based Training
+
+## Part I: Creating My PLN
+
+My career goal is to develop expertise in designing highly technical training, particularly simulation-based instruction like the training used to prepare elite military pilots. I want to understand how instructional designers create realistic learning experiences that help people practice complex procedures, make decisions under pressure, and apply their skills effectively.
+
+As a project-based learner, I learn best by creating something, testing it, and improving it through feedback. My Personal Learning Network (PLN) will connect me with resources and professionals who can help me translate instructional design principles into practical projects.
+
+### Research and Selection
+
+I identified five potential connections that align with my interests:
+
+1. **[National Training & Simulation Association (NTSA)](https://www.ntsa.org/membership)**  
+   NTSA connects professionals working in modeling, simulation, and training. Its educational and networking opportunities align closely with my interest in military and aviation training. My company did not attend ITTSEC this year, NTSA's annual conference, but I hope to be ble to attend in 2027.
+
+2. **[Human Factors and Ergonomics Society (HFES), Training Technical Group](https://www.hfes.org/Groups-Communities/Technical-Groups/Training)**  
+   This group explores human factors in training systems, including human-machine interaction, safety, performance, and emerging training technologies. I joined Aerospace Systems Technical Group for free which should be interesting. If this is a good source, I will also become a member of the Cognitive Engineering and Decision Making Technical Group.
+
+3. **[NASA’s Aviation Systems Division](https://www.nasa.gov/ames/aviationsystems/publications/simulation-capabilities/)**  
+   NASA’s aviation simulation publications provide technical resources that could deepen my understanding of simulation environments and their applications. They have several interesting publications and—with the recent issues with air travel—I am especially going to review their research on Air Traffic Management.
+
+4. **[The Learning Guild](https://www.learningguild.com/)**  
+   The Learning Guild provides a community of learning professionals, along with webinars and resources related to instructional design and learning technologies.
+
+5. **[Society for Simulation in Healthcare (SSH)](https://ssih.org)**  
+   SSH offers opportunities to learn about simulation education in another high-stakes field. Exploring healthcare simulation could help me consider approaches that might inform technical training in other settings. Their [Sim Series Webinar](https://ssih.org/simseries-webinars) looks good.
+
+### Two Key Connections
+
+#### National Training & Simulation Association
+
+NTSA is probably the most relevant to my career goals because its community focuses on modeling, simulation, and training and my company often attends. I hope to attend Interservice/Industry Training, Simulation and Education Conference (I/ITSEC). Reading the [I/ITSEC publications and proceedings](https://www.iitsec.org/about-iitsec/publications-and-proceedings) would give me material to investigate training problems and generate ideas for portfolio projects.
+
+NTSA would also provide opportunities to meet experienced professionals and seek informal mentorship. I would ask practitioners about designing realistic scenarios, and evaluating whether learners can transfer their skills to operational settings. These relationships would develop through ongoing participation rather than membership alone.
+
+#### HFES Training Technical Group
+
+The HFES Training Technical Group would help me understand the relationship between training design and human performance. Its focus on human factors aligns with my interest in preparing learners to perform complex tasks and make decisions under demanding conditions.
+
+This connection would support my exploration of cognitive workload, feedback, practice, and performance assessment. For example, when designing a simulation, I would want to determine whether additional visual detail, such as color contrast, helps learners make decisions or distracts them from the learning objective.
+
+Following the group would also help me examine emerging technologies, such as artificial intelligence and virtual reality, through the lens of learning and performance.
+
+## Part II: Professional Learning Plan
+
+### Reflection and Future Goals
+
+The process of identifying PLN connections helped me recognize that my career interests span several fields. Instructional design, simulation technology, human factors, and performance assessment, though tough material, all contribute to the work I hope to pursue.
+
+My PLN reflects connectivism because my learning will develop through connections among people, communities, and information sources. I will need to know where to find relevant knowledge, how to evaluate it, and whom to consult when I encounter an unfamiliar problem. Contributing my own ideas and receiving feedback will also help me develop my understanding.
+
+My long-term goal is to create a simulation-based technical training projects of my own with the help of subject matter experts from my company. To work toward that goal, I will use my PLN to support the project. An initial project could be an aviation-inspired branching scenario (A/B testing) in which learners interpret screens, prioritize actions, and their responses are recorded. 
+
+### Continuous Learning and Engagement
+
+Because I learn best through projects, I will connect my PLN activities to specific design tasks.
+
+- **Weekly:** Spend approximately one hour reviewing publications and professional discussions. Save at least one useful resource and explain how it could inform a project.
+- **Monthly:** Participate in an accessible webinar, event, or discussion. Contribute a thoughtful question or share a relevant resource with a brief explanation.
+- **Every three months:** Complete a small project or test, such as a scenario storyboard, simulation design plan, or debriefing guide. Request feedback from peers and experienced practitioners when available.
+- **After each project/test:** Document what I learned, the feedback I applied, and the questions I still need to investigate.
+
+I will ask focused questions when seeking feedback. For example, I might ask, “Does this scenario assess decision-making or primarily recall?” or “Does the feedback help learners understand the consequences of their choices?”
+
+I will contribute to my PLN by sharing annotated resources, project reflections, and examples of revisions made in response to feedback. This will help me participate as both a learner and a contributor.
+
+### Staying Current and Evaluating Credibility
+
+I will follow organizational updates and professional discussions related to simulation, virtual reality, artificial intelligence, and performance assessment. I will organize useful resources by topic, including scenario design, human factors, debriefing, and evaluation. Each saved entry will include the author, publication date, link, main finding, and possible application.
+
+Before applying information, I will examine the author’s expertise, supporting evidence, publication process, and potential commercial interests. I will use social media to discover ideas, then trace significant claims to original research or technical documentation.
+
+I will also consider whether evidence applies to my intended learners and training context. An approach that works in healthcare, for example, may require creative adaptation before it is useful in aviation training.
+
+Every three months, I will review whether my PLN is helping me improve my projects and identify gaps in my knowledge or connections. Through this cycle of connecting, creating, seeking feedback, and revising, I can make lifelong learning a practical part of my professional development.
+
+<a name="unit6"> </a>
 
 # Unit 6
 
+<a name="unit7"> </a>
+
 # Unit 7
+
+<a name="unit8"> </a>
 
 # Unit 8
