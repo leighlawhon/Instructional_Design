@@ -195,7 +195,7 @@ Cognitivism is a learning theory that examines how people attend to information,
 
 Cognitivism gained prominence during the **1950s and 1960s**, as researchers increasingly investigated the mental processes involved in learning. Several researchers contributed to its development and educational applications:
 
-{% include cognativism_timeline %}
+{% include cognativism_timeline.html %}
 
 ## Implications for Instructional Design
 
