@@ -13,6 +13,8 @@
     clip-path: inset(50%);
 }
 
+/* not sure what is going on */
+
 .course-tabs>label {
     padding: 0.6rem 1rem;
     margin: 0;
