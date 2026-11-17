@@ -36,76 +36,138 @@ Behaviorism is an approach to psychology that emphasizes the scientific study of
 
 Behaviorism also provides principles for designing instruction around observable performance, practice, and consequences. In this reflection, I use my software training experience as a starting point for considering how these principles might support adult learning. 
 
-Prior to becoming a software instructor, I was a designer turned coder. One time I got an inline comment during a review which was just a bunch of farm animals. I didn't get it. They explained that I "left so many spaces between my lines of code, cows and horses could graze". Not a great experience, but definitely an opportunity to examine how to teach and reinforce these cultural rules without sarcasm and poking at the new kid.
-
-### Classical Conditioning
-
-Two major learning processes associated with behaviorism are **classical conditioning** and **operant conditioning**. Classical conditioning developed from Russian physiologist Ivan Pavlov’s research on digestion and conditioned reflexes around the turn of the twentieth century. His experiments demonstrated that a previously neutral stimulus could elicit a learned response after being paired with an unconditioned stimulus (Pavlov, 1927).
-
-The components of classical conditioning can be illustrated through a software developer example:
-
-1. **Unconditioned stimulus (UCS):** Learners read code that is properly formatted and well documented through comments. They may not directly understand the connection, but they may notice following along is easy.
-2. **Unconditioned response (UCR):** They write their own code. Writing functional code while keeping formatting clean and documentation comments clear and up to date is not as easy as it sounds. The code can work functionally, but they have difficulty reading it and explaining how it works to other learners. It takes practice to get this right.
-3. **Neutral stimulus (NS):** A class code review of another team's formatting and commenting would allow learners to see coders who are praised and coders who are corrected, without being directly exposed to the feedback. Additionally, they learn to give clear, professional feedback that echos and applies the principles they have learned. 
-4. **Conditioned stimulus (CS):** After repeated code reviews of their own work—a long but crucial process—the feedback becomes a signal that elicits social acceptance and avoidance of mistakes.
-5. **Conditioned response (CR):** Well formatted code and comments in preparation for the code review is the learned response.
-
-### Operant Conditioning
-
-Operant conditioning has roots in Edward Thorndike’s animal-learning experiments in the late nineteenth century. His **law of effect** proposed that responses followed by satisfying consequences become more likely in similar situations (Thorndike, 1911). B. F. Skinner expanded the experimental study of how consequences influence behavior during the twentieth century (Skinner, 1953).
-
-Brau et al. (2018) describe behaviorist teaching as arranging environmental conditions to encourage changes in observable behavior. For an instructional designer, this means specifying what learners should be able to do, creating opportunities to practice, and examining how consequences affect subsequent performance. 
-
-For example, a software-training objective could require learners to apply a specified formatting and commenting procedures. The designer would need to assess whether learners perform the procedure more reliably over time, rather than assuming that completing the training establishes learning. 
-
-A behaviorist approach to software training could establish observable objectives for formatting and commenting, such as using consistent spacing and writing comments that explain a function’s purpose. Peer review would provide social consequences or reward that might influence subsequent coding behavior. Specific approval could function as positive reinforcement if it increased adherence to those conventions, while criticism could function as punishment if it reduced a targeted behavior. However, the function of feedback depends on its observed effect rather than the reviewer’s intention (a joke) (Skinner, 1953). 
-
-As an instructional designer, I would take a different approach to my colleagues. I would provide a style guide and review criteria rather than leave learners to infer expectations from individual preferences. I might even run an exercise where learners decide on formatting and commenting rules as a group. I would assess whether their later code followed those conventions independently. I would also monitor review participation, because feedback that improves formatting while discouraging learners from sharing their work would create another instructional concern. I might say: “Remove extra blank lines so as to follow the team's style guide" identifies the desired change more clearly while emphasizing it is a group and social norm.
-
-The following hypothetical examples distinguish the four consequence categories from my perspective, working in my office:
-
-| Consequence | Environmental change | Effect on future behavior | Hypothetical example |
-|---|---|---|---|
-| **Positive reinforcement** | Something is added | Behavior increases | Offering positive, encouraging comment when the group establishes formatting or commenting guides |
-| **Negative reinforcement** | Something unpleasant is removed | Behavior increases | With better formatting and commenting, their code becomes easier to read and explain |
-| **Positive punishment** | Something unpleasant is added | Behavior decreases | During regular code reviews, they get  feedback that is visible to the group and goes against group norms |
-| **Negative punishment** | Something valued is removed | Behavior decreases | The independence and autonomy of merging code into the group repository is restricted. |
-
-These examples illustrate categories rather than recommendations. I find “additive” and “subtractive” helpful reminders because **positive and negative mean adding and removing, rather than good and bad**. Reinforcement increases behavior; punishment decreases it. Classification depends on the observed effect, not the person’s intention (Skinner, 1953).
-
-Some key dates in the development of behaviorism are presented below:
-
+Here are some key dates:
 {% include behaviorism_timeline.html %}
 
-## Implications of Behaviorism in Code Training
+## Personal Context
 
-Behaviorism has practical implications for adult education and because it provides ways to understand learning through associations and consequences. In a very collaborative and social software development environment, social acceptance and teamwork shaped the desired actions and rewarded gradual progress toward more complex behaviors. For example, if developers, choose their own style or don't use group rules, the overall code base becomes incomprehensible and difficult for future coders to understand the intent of the code. Additionally, team cohesion suffers.
+Before becoming a software instructor, I was a designer turned coder. During one code review, a colleague left an inline comment containing farm animals. I did not understand the message until they explained that I had left so much space between lines of code that cows and horses could graze there. Although the comment called attention to formatting, it did not clearly explain the expected convention. This experience led me to consider how instructors can teach team coding standards through explicit expectations and professional feedback.
 
-## Strengths and Limitations of Behaviorism in Code Training
+## Classical Conditioning
 
-Applying these techniques to animals on my farm, especially my two pigs, has helped me recognize the importance of training conditions. My pigs have learned to sit and wait for dinner in designated spots and accept brushing while they eat. However, their large enclosure and my less frequent contact with them may provide fewer opportunities for consistent practice than I had with the guide dog puppies.
+### Explanation
 
-These experiences do not necessarily mean that pigs are less trainable or that greater autonomy prevents learning. Instead, they lead me to consider differences in motivation, distractions, reinforcement history, and opportunities to practice. Similarly, describing a dog as “stubborn” may overlook competing rewards or a cue that has not been learned reliably in a distracting setting.
+Classical conditioning occurs when a previously neutral stimulus acquires the ability to elicit a response through association with another stimulus (Pavlov, 1927). In code review, this process can help explain learned emotional reactions to code reviews. Learning to format code in response to consequences is better explained through operant conditioning.
 
-With my own dogs, I have used an electronic training collar because of concerns about safety on our rural property. I initially interpreted their rapid responses as evidence that the collar was effective. A more precise behaviorist interpretation distinguishes several processes: a shock following an action could function as positive punishment if that action decreases, while a warning beep paired with shock could acquire aversive properties through classical conditioning. This association is different from shaping a behavior through successive approximations.
+### Developer Code Review Example
 
-However, my observations alone cannot establish the collar’s overall effectiveness or its effects on welfare. The American Veterinary Society of Animal Behavior (2021) recommends reward-based training and identifies welfare risks associated with aversive methods, including electronic collars. This evidence adds an important limitation to my personal interpretation: an immediate change in behavior does not, by itself, demonstrate that a technique produces the best long-term outcome.
+#### Context
 
-My experiences suggest that behaviorism is particularly useful when the target performance is observable and can be practiced under clear conditions. In adult software training, it can guide the reinforcement of accurate procedures and increasingly independent performance. Its limitations become apparent when successful practice is treated as proof of understanding, motivation, or transfer. I would therefore use behaviorist principles as part of a broader instructional approach, assessing both immediate performance and later application. The central lesson I take from animal training is to examine what actually changes, under which conditions, and whether that change persists.
+A new developer repeatedly encounters humiliating feedback during code review. Over time, a code review assignment may begin to elicit apprehension before the developer reads the comments. 
 
-# References
+#### Unconditioned Stimulus
 
-American Veterinary Society of Animal Behavior. (2021). *Position statement on humane dog training*. [https://avsab.org/wp-content/uploads/2021/08/AVSAB-Humane-Dog-Training-Position-Statement-2021.pdf](https://avsab.org/wp-content/uploads/2021/08/AVSAB-Humane-Dog-Training-Position-Statement-2021.pdf)
+Stress and distancing from the team becomes associated with code reviews.
 
-Creative Commons. (n.d.). *Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).* [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+#### Unconditioned Response
 
-Pavlov, I. P. (1927). *Conditioned reflexes: An investigation of the physiological activity of the cerebral cortex* (G. V. Anrep, Trans.). Oxford University Press. [https://psychclassics.yorku.ca/Pavlov/lecture2.htm](https://psychclassics.yorku.ca/Pavlov/lecture2.htm)
+The developer's immediate distress in response to social and negative feedback.
 
-Skinner, B. F. (1953). *Science and human behavior*. Macmillan. [https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf)
+#### Neutral Stimulus
 
-Thorndike, E. L. (1911). *Animal intelligence: Experimental studies*. Macmillan. [https://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm](https://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm)
+A code review that initially produces no particular distress.
 
-Watson, J. B. (1913). Psychology as the behaviorist views it. *Psychological Review, 20*(2), 158–177. [https://doi.org/10.1037/h0074428](https://doi.org/10.1037/h0074428)
+#### Conditioned Stimulus
+
+The code review assignment after repeated pairings with distressing feedback.
+
+#### Conditioned Response
+
+Anticipatory apprehension when the assignment appears, before the feedback is read.
+
+### Instructional Implication
+
+This interpretation reminds me that review conditions can shape how learners feel about participating. I would make feedback predictable, respectful, and focused on the submitted code. I would also ask learners about their review experiences rather than assume that participation or silence reveals their emotional response.
+
+## Operant Conditioning
+
+### Explanation
+
+Operant conditioning concerns how consequences influence subsequent behavior. Thorndike's (1911) law of effect proposed that responses followed by satisfying consequences become more likely in similar situations. Skinner (1953) expanded the study of relationships between behavior and its consequences.
+
+Positive and negative refer to adding and removing something. Reinforcement increases the future likelihood of a behavior, while punishment decreases it. A consequence is classified by its observed effect, not simply by the reviewer's intention.
+
+### Observable Objective
+
+Given the team's style guide and a code review checklist, developers will submit code that follows agreed spacing conventions and includes accurate comments explaining purpose or non-obvious reasoning. Progress will be assessed across later submissions, including work completed without instructor reminders.
+
+### Developer Code Review Consequences
+
+#### Positive reinforcement
+
+**Environmental Change:** Something is added.
+
+**Example:** A reviewer gives specific recognition (an emoji) when a developer submits code that follows the team's formatting and commenting standards.
+
+**Required Observed Effect:** Adherence to those standards increases in subsequent submissions.
+
+#### Negative reinforcement
+
+**Environmental Change:** Something aversive is removed.
+
+**Example:** A developer corrects formatting problems, which stops the repeated formatting warnings in the console. This qualifies as negative reinforcement because the warnings are highlighted red and yellow and their removal strengthens the behavior.
+
+**Required Observed Effect:** Submitting correctly formatted code becomes more frequent because it prevents or ends the warnings.
+
+#### Positive punishment
+
+**Environmental Change:** Something aversive is added.
+
+**Example:** A reviewer adds a reprimand after a developer submits code with excessive blank lines. This is a consequence and does happen, but it is not a recommended teaching practice.
+
+**Required Observed Effect:** The targeted spacing behavior decreases in subsequent submissions.
+
+#### Negative punishment
+
+**Environmental Change:** Something valued is removed.
+
+**Example:** A developer temporarily loses valued permission to merge independently.
+
+**Required Observed Effect:** Adherence to formatting rules increases subsequent work.
+
+### Interpretation
+
+These categories depend on evidence about later behavior. Praise is not automatically reinforcement, and corrective feedback is not automatically punishment. Feedback may also provide information about how to improve. A review process should therefore examine both compliance with coding conventions and willingness to submit work, ask questions, and participate, which may be better addressed one-on-one, rather than in a group.
+
+## Instructional Application
+
+### Explicit Expectations
+
+I would provide a style guide and review criteria before the first submission. Developers could discuss the reasons behind formatting and commenting conventions and help establish team rules where appropriate. This would make the expected performance visible and give learners a voice in shared standards.
+
+### Practice And Feedback
+
+Developers would practice reviewing code against the same criteria used to assess their own submissions. I would model comments that identify the issue, explain its effect, and describe a concrete revision. For instance: "Remove the extra blank lines between these statements to follow the team's spacing convention."
+
+### Gradual Independence
+
+Early reviews would include prompts and specific recognition of progress. As learners become more consistent, I would reduce reminders and ask them to check their own code before requesting review. 
+
+### Assessment
+
+I would compare initial and later submissions for adherence to agreed conventions and track whether developers can apply them independently. I would also ask learners to explain their decisions and review unfamiliar code. These additional tasks would help distinguish repeated compliance from understanding and transfer.
+
+## Strengths and Limitations
+
+Behaviorism is useful in developer training when the target performance is observable, expectations are clear, and learners have repeated opportunities to practice. Code review provides timely information and consequences that may support consistent formatting, accurate comments, and adherence to team procedures.
+
+However, a correctly formatted submission does not establish that a developer understands the code, can evaluate a convention critically, or can apply learning in another project. Reviewers may also unintentionally reinforce superficial compliance or discourage participation. A learner who avoids submitting code may appear to not be a team player.
+
+I would therefore combine observable performance measures with explanations, discussion, and later application. My experience with sarcastic feedback reinforces the importance of checking what a review process actually changes, whether the change persists, and how the process affects learners' willingness to participate.
+
+## Reflection
+
+My central takeaway is that effective code review requires more than identifying mistakes. As an instructor, I need to define expectations, provide opportunities to practice, and examine how feedback influences future behavior. Behaviorist principles help explain those relationships, while a broader instructional approach helps me assess understanding, independence, and collaboration.
+
+## References
+
+Pavlov, I. P. (1927). *Conditioned reflexes: An investigation of the physiological activity of the cerebral cortex* (G. V. Anrep, Trans.). Oxford University Press. https://psychclassics.yorku.ca/Pavlov/lecture2.htm
+
+Skinner, B. F. (1953). *Science and human behavior*. Macmillan. https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf
+
+Thorndike, E. L. (1911). *Animal intelligence: Experimental studies*. Macmillan. https://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm
+
+Watson, J. B. (1913). Psychology as the behaviorist views it. *Psychological Review, 20*(2), 158–177. https://doi.org/10.1037/h0074428
 
 
 <a name="unit3"> </a>
