@@ -12,16 +12,16 @@ main:
       - title: "Instructional Design Document )(IDD)"
         url: /pages/idd
 lxd600:
-  - title: "Units"
-    children:
-      - title: "Unit 1: Copyright"
-        url: /pages/learning-theory#unit1
-      - title: "Unit 2: Behaviorism"
-        url: /pages/learning-theory#unit2
-      - title: "Unit 3: Cognitivism"
-        url: /pages/learning-theory#unit3
-      - title: "Unit 4: Constructivism"
-        url: /pages/learning-theory#unit4
-      - title: "Unit 5: Connectivism"
-        url: /pages/learning-theory#unit5
+  title: "Units"
+  children:
+    - title: "Unit 1: Copyright"
+      url: /pages/learning-theory#unit1
+    - title: "Unit 2: Behaviorism"
+      url: /pages/learning-theory#unit2
+    - title: "Unit 3: Cognitivism"
+      url: /pages/learning-theory#unit3
+    - title: "Unit 4: Constructivism"
+      url: /pages/learning-theory#unit4
+    - title: "Unit 5: Connectivism"
+      url: /pages/learning-theory#unit5
   
