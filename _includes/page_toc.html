@@ -6,7 +6,7 @@
             <h4 class="nav__title">{{ menu.title | escape }}</h4>
         </header>
         <ul class="toc__menu">
-            {% for item in menu.items %}
+            {% for item in menu.children %}
             {% assign first_character = item.url | slice: 0 %}
             {% if first_character == "#" %}
             {% assign href = item.url %}
