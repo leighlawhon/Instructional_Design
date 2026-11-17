@@ -14,7 +14,8 @@ author: Leigh Lawhon
     <label for="tab-assignments">Assignments</label>
         <div class="course-tabs__panel" id="panel-overview" markdown="1">
 
-<a name="#unit1"></a>
+<a name="unit1"> </a>
+
 # Unit 1: Copyright
 
 For this website, I have chosen the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)** for my original written content and graphics, except where otherwise noted. This license allows others to share and adapt covered material for noncommercial purposes, provided they give appropriate credit, indicate whether changes were made, and distribute adaptations under the same license (Creative Commons, n.d.).
@@ -39,7 +40,9 @@ If you share or adapt my work, I would love to hear from you. Notification is ap
 
 **Contact:** [leighlawhon@gmail.com](mailto:leighlawhon@gmail.com)
 
+
 <a name="unit2"> </a>
+
 # Unit 2: Behaviorism 
 
 ## Overview
