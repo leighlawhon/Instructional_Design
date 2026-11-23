@@ -35,7 +35,7 @@ author: Leigh Lawhon
 
 # Unit 3: Cognativism
 
-![Cognativism](../assets/images/cognativism_.png)
+![Cognativism](../assets/images/cognativism.png)
 
 {% capture included_content %}{% include learning600/unit3.md %}{% endcapture %}
 {{ included_content | markdownify }}
