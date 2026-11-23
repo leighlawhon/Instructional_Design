@@ -2,7 +2,22 @@
 
 ### Overview
 
-Andragogy is a framework for designing and facilitating adult learning. German educator Alexander Kapp used the term in 1833, and Malcolm Knowles popularized it in U.S. adult education with *The Modern Practice of Adult Education* in 1970 (Knowles, 1970; Loeng, 2017). Knowles’s model asks designers to consider six things. These are the learner’s **need to know**, **self-concept** as someone capable of directing their learning, **prior experience**, **readiness to learn**, **problem-centered orientation**, and **motivation** (Knowles et al., 2005; Thompson, 2017).
+Andragogy is a framework for designing and facilitating adult learning. German educator Alexander Kapp used the term in 1833, and Malcolm Knowles popularized it in U.S. adult education with *The Modern Practice of Adult Education* in 1970 (Knowles, 1970; Loeng, 2017). Knowles’s model asks designers to consider six things. (Knowles et al., 2005; Thompson, 2017).
+​
+- **Need to Know:** Adults need to know why they are being asked to learn about a particular topic
+- **Experience:** A learner’s prior experience is the basis for learning activities
+- **Self-Concept:** Adults want autonomy and some control over the learning process
+- **Readiness:** Adults want learning experiences that apply to real-life problem solving
+- **Problem orientation:** Adults want learning experiences that can help them solve problems right now
+- **Intrinsic Motivation:** Adults prefer internal motivations to engage in the learning process
+ 
+In addition, andragogy is based on five assumptions.
+​
+- **Self-Concept:** Self-directed adult learners can learn more independently than children
+- **Adult Learner Experience:** Bring vast prior knowledge and experiences that they can build new learning from
+- **Readiness to Learn:** Connected with the maturity of adult learners who are more ready to learn skills and information related to their career or role in life
+- **Orientation to Learning:** Eager to learn things that are useful to their roles immediately and flourish more in problem-solving learning situations
+- **Motivation to Learn:** Adult learners do not require as many external rewards such as grades, awards, etc., and are more intrinsically motivated
 
 ### Implications of Andragogy for Instructional Design
 
