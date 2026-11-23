@@ -14,7 +14,13 @@ author: Leigh Lawhon
     <label for="tab-assignments">Assignments</label>
         <div class="course-tabs__panel" id="panel-overview" markdown="1">
 
-{% include learning600/unit1 %}
+<a name="unit1"> </a>
+
+# Unit 1: Copyright
+
+{% capture included_content %}{% include learning600/unit1.md %}{% endcapture %}
+{{ included_content | markdownify }}
+
 
 <a name="unit2"> </a>
 
