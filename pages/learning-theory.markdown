@@ -18,6 +18,8 @@ author: Leigh Lawhon
 
 # Unit 1: Copyright
 
+![Copyright](../assets/images/copyright.png)
+
 {% capture included_content %}{% include learning600/unit1.md %}{% endcapture %}
 {{ included_content | markdownify }}
 
@@ -35,7 +37,7 @@ author: Leigh Lawhon
 
 # Unit 3: Cognativism
 
-![Cognativism](../assets/images/cognativism.png)
+![Cognativism](../assets/images/cognativism_.png)
 
 {% capture included_content %}{% include learning600/unit3.md %}{% endcapture %}
 {{ included_content | markdownify }}
