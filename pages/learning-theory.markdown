@@ -25,6 +25,7 @@ author: Leigh Lawhon
 <a name="unit2"> </a>
 
 # Unit 2: Behaviorism 
+![behaviorism](assets/images/behaviorism.png)
 
 {% capture included_content %}{% include learning600/unit2.md %}{% endcapture %}
 {{ included_content | markdownify }}
@@ -34,6 +35,8 @@ author: Leigh Lawhon
 
 # Unit 3: Cognativism
 
+![Cognativism](assets/images/cognativism.png)
+
 {% capture included_content %}{% include learning600/unit3.md %}{% endcapture %}
 {{ included_content | markdownify }}
 
@@ -41,6 +44,8 @@ author: Leigh Lawhon
 <a name="unit4"> </a>
 
 # Unit 4: Constructivim
+
+![Constructivim](assets/images/constructivim.png)
 
 {% capture included_content %}{% include learning600/unit4.md %}{% endcapture %}
 {{ included_content | markdownify }}
@@ -50,6 +55,8 @@ author: Leigh Lawhon
 
 # Unit 5: Connectivism 
 
+![Connectivism](assets/images/connectivism.png)
+
 {% capture included_content %}{% include learning600/unit5.md %}{% endcapture %}
 {{ included_content | markdownify }}
 
@@ -57,6 +64,8 @@ author: Leigh Lawhon
 <a name="unit6"> </a>
 
 # Unit 6 Andragogy
+
+![Andragogy](assets/images/andragogy.png)
 
 {% capture included_content %}{% include learning600/unit6.md %}{% endcapture %}
 {{ included_content | markdownify }}
