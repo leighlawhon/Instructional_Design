@@ -76,7 +76,10 @@ Knowles’s motivation, need to know, and prior experience help me explain that 
 
 ### Informal Learning
 
-I personally start with informal learning. That’s how I’ve built much of my learning design practice. I learn what I need as problems arise and take a short course when I want more structure. In my professional learning network (PLN), I want to ask my work colleagues working with aviation simulations how they learned about the industry and decided where to start. 
+I personally start with informal learning. That’s how I’ve built much of my learning design practice. I learn what I need as problems arise and take a short course when I want more structure. 
+
+#### PLN
+In my professional learning network (PLN), I want to ask my work colleagues working with aviation simulations how they learned about the industry and decided where to start. I could possibly create a table and simply focus on the most mentioned topics. Another option, might just be to make a list to tackle 1 concept a day.
 
 Additionally, as this is a complex topic, am thinking about prototyping a browser extension that maps what I learn from searches and readings so I can see connections across topics and find a familiar entry point into something new. To me, connecting concepts and their relationships help me reinforce the learning.
 
