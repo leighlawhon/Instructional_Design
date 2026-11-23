@@ -45,7 +45,7 @@ author: Leigh Lawhon
 
 # Unit 4: Constructivim
 
-![Constructivim](../assets/images/constructivim_.png)
+![Constructivim](../assets/images/constructivism_.png)
 
 {% capture included_content %}{% include learning600/unit4.md %}{% endcapture %}
 {{ included_content | markdownify }}
