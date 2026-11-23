@@ -58,7 +58,7 @@ author: Leigh Lawhon
 
 # Unit 6 Andragogy
 
-{% capture included_content %}{% include learning600/unit5.md %}{% endcapture %}
+{% capture included_content %}{% include learning600/unit6.md %}{% endcapture %}
 {{ included_content | markdownify }}
 
 <a name="unit7"> </a>
