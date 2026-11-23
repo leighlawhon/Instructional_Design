@@ -15,6 +15,8 @@ author: Leigh Lawhon
         <div class="course-tabs__panel" id="panel-overview" markdown="1">
 
 <a name="unit1"> </a>
+<br>
+<br>
 
 # Unit 1: Copyright
 
@@ -25,6 +27,8 @@ author: Leigh Lawhon
 
 
 <a name="unit2"> </a>
+<br>
+<br>
 
 # Unit 2: Behaviorism 
 ![behaviorism](../assets/images/behaviorism_.png)
@@ -34,6 +38,8 @@ author: Leigh Lawhon
 
 
 <a name="unit3"> </a>
+<br>
+<br>
 
 # Unit 3: Cognativism
 
@@ -44,6 +50,8 @@ author: Leigh Lawhon
 
 
 <a name="unit4"> </a>
+<br>
+<br>
 
 # Unit 4: Constructivim
 
@@ -54,6 +62,8 @@ author: Leigh Lawhon
 
 
 <a name="unit5"> </a>
+<br>
+<br>
 
 # Unit 5: Connectivism 
 
@@ -64,6 +74,8 @@ author: Leigh Lawhon
 
 
 <a name="unit6"> </a>
+<br>
+<br>
 
 # Unit 6 Andragogy
 
@@ -73,10 +85,14 @@ author: Leigh Lawhon
 {{ included_content | markdownify }}
 
 <a name="unit7"> </a>
+<br>
+<br>
 
 # Unit 7
 
 <a name="unit8"> </a>
+<br>
+<br>
 
 # Unit 8
 
