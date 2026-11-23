@@ -25,7 +25,7 @@ author: Leigh Lawhon
 <a name="unit2"> </a>
 
 # Unit 2: Behaviorism 
-![behaviorism](../assets/images/behaviorism.png)
+![behaviorism](../assets/images/behaviorism_.png)
 
 {% capture included_content %}{% include learning600/unit2.md %}{% endcapture %}
 {{ included_content | markdownify }}
@@ -35,7 +35,7 @@ author: Leigh Lawhon
 
 # Unit 3: Cognativism
 
-![Cognativism](../assets/images/cognativism.png)
+![Cognativism](../assets/images/cognativism_.png)
 
 {% capture included_content %}{% include learning600/unit3.md %}{% endcapture %}
 {{ included_content | markdownify }}
